@@ -1,5 +1,7 @@
 # L5-sea-issue-tracker
 
+Source code to a university project proving ability to develop applications with a web frontend and DB backend.
+
 ## Installation Prerequisites
 - Python 3.10.5
 - Django 4.10
